@@ -1829,8 +1829,11 @@ ul.icons {
     color: #ce1b28; }
   #banner strong, #banner b {
     color: #ffffff; }
-  #banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
+  #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
     color: #ffffff; }
+    #banner h1{
+        color: green;
+    }
   #banner blockquote {
     border-left-color: rgba(255, 255, 255, 0.25); }
   #banner code {
